@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Software Engineer ",
+    "organization": "Stratez Infotech Inc",
+    "liveUrl": null,
+    "duration": "January 2022 - Present",
+    "description": [
+      "Implemented event creation, editing, and management features, enabling users to organize the events seamlessly.",
+      "Created a user registration module where users can register/manage their profiles within the Event Management System.",
+      "Utilized React.js to build responsive and user-friendly interfaces, ensuring a smooth experience for event organizers and attendees.",
+      "Used Node.js for server-side development, handling user authentication, event data management, and API integration.",
+      "Implemented a secure and scalable data storage solution using PostgreSQL, ensuring efficient data management for users and events."
+    ],
+    "logo": "Stratez"
+  },
+  {
+    "title": "Web Developer",
+    "organization": "Channelsoft Inc",
+    "liveUrl": null,
+    "duration": "January 2021 - November 2021",
+    "description": [
+      "Employed performance optimization techniques in both front-end and back-end code, ensuring efficient data retrieval and rendering of inventory information for users.",
+      "Ensured code reusability by creating modular and maintainable code components using React and Node.js, facilitating future development and enhancements.",
+      "Implemented responsive design principles with HTML, CSS, and JavaScript, ensuring cross-device compatibility for field technicians and office staff."
+    ],
+    "logo": "ChannelSoft"
+  }
+]

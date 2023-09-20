@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Employee Management System",
+    "content": "Employee Management System developed from scratch using modern web development technologies, including Bootstrap, React.js, Node.js, and MySQL",
+    "gitHubUrl": "https://github.com/Naveenkommuri12/crud-app",
+    "liveUrl": null,
+    "techStack": ["React", "ExpressJS", "MySQL"]
+  },
+  {
+    "title": "Weather App",
+    "content": "Responsive web application that allows users to check current weather conditions for any city worldwide.",
+    "gitHubUrl": "https://github.com/fuseumass/hackumass.github.io",
+    "liveUrl": null,
+    "techStack": ["HTML", "CSS", "JavaScript"]
+  }
+]
